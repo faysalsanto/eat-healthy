@@ -12,8 +12,8 @@ h1 {
 
 .half-width {
     width: 50%;
-    margin: 6%;
-    padding: 10px;
+    margin: 5%;
+
 }
 
 .link-batton {
@@ -51,6 +51,24 @@ section {
 }
 
 .half-width img {
-    width: 70%;
+    width: 60%;
     padding-left: 20px;
+}
+
+.text-alin {
+    text-align: center;
+    margin-top: 0;
+    margin-left: 250px;
+}
+
+.shado {
+    box-shadow: 10px 10px 30px;
+    width: 60%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.shado img {
+    width: 100%;
 }
