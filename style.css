@@ -1,0 +1,56 @@
+.orange {
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.flexibale-container {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    margin: 6%;
+    padding: 10px;
+}
+
+.link-batton {
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.imag-class {
+    width: 70%;
+    height: 50%;
+    border-radius: 20px;
+
+}
+
+.tope-banar {
+    margin-top: 20px;
+    background-image: url(images/shapes/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.middel-baner {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin-right: 10px;
+
+}
+
+section {
+    display: flex;
+}
+
+.half-width img {
+    width: 70%;
+    padding-left: 20px;
+}
