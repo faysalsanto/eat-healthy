@@ -72,3 +72,18 @@ section {
 .shado img {
     width: 100%;
 }
+
+.comment {
+    width: 30%;
+    padding-top: 10px;
+    padding-left: 150px;
+    border-radius: 20px;
+}
+
+#area {
+    box-shadow: 10px 10px 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    border-radius: 200px;
+}
